@@ -2,8 +2,8 @@
 
 ## Matemática discreta
 
+### Conjuntos
 ### Combinatoria
-### Probabilidad
 ### Grafos
 
 ## Álgebra
@@ -13,4 +13,5 @@
 ### Resolución de sistemas
 
 ## Cálculo diferencial
+
 ## Cálculo integral
