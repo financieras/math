@@ -2,16 +2,16 @@
 
 ## Matemática discreta
 
-### Conjuntos
-### Combinatoria
-### Grafos
+* ### Conjuntos
+* ### Combinatoria
+* ### Grafos
 
 ## Álgebra
 
-### Matrices
-### Determinantes
-### Resolución de sistemas
+* ### Matrices
+* ### Determinantes
+* ### Resolución de sistemas
 
-## Cálculo diferencial
-
-## Cálculo integral
+## Cálculo
+* ### Diferencial
+* ### Integral
